@@ -20,9 +20,14 @@
 		{
 			"mesh":0,
 			"name":"tripo_node_7b5f2be7-e1b1-44b9-9dbb-dfd1eaf9afd8",
+			"scale":[
+				3.2916717529296875,
+				3.2916717529296875,
+				3.2916717529296875
+			],
 			"translation":[
 				0,
-				0.26187121868133545,
+				1.0377720594406128,
 				0
 			]
 		}
@@ -170,7 +175,7 @@
 	"buffers":[
 		{
 			"byteLength":13326712,
-			"uri":"KODOK%20MERAH.bin"
+			"uri":"sxd.bin"
 		}
 	]
 }

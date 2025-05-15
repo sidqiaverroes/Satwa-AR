@@ -17,9 +17,9 @@
 			"mesh":0,
 			"name":"tripo_node_b4de15db-d3ca-43bb-8299-a5b4935e1741",
 			"scale":[
-				3.050165891647339,
-				3.050165891647339,
-				3.050165891647339
+				6.4806132316589355,
+				6.4806132316589355,
+				6.4806132316589355
 			],
 			"translation":[
 				0,
@@ -46,7 +46,7 @@
 	],
 	"meshes":[
 		{
-			"name":"Mesh_0.003",
+			"name":"Mesh_0.004",
 			"primitives":[
 				{
 					"attributes":{
@@ -162,7 +162,7 @@
 	"buffers":[
 		{
 			"byteLength":2427696,
-			"uri":"IKAN%20BATAK.bin"
+			"uri":"sxd.bin"
 		}
 	]
 }

@@ -27,14 +27,14 @@
 				0.7071066498756409
 			],
 			"scale":[
-				1.772661805152893,
-				1.7726620435714722,
-				1.7726620435714722
+				4.811289310455322,
+				4.8112897872924805,
+				4.8112897872924805
 			],
 			"translation":[
-				0.005519238766282797,
-				-1.710915446281433,
-				0.5576064586639404
+				0,
+				-8.095637321472168,
+				0
 			]
 		}
 	],
@@ -49,7 +49,7 @@
 					"ior":1
 				}
 			},
-			"name":"tripo_material_fdc17924-f668-45af-ab35-d54ebcf5ecda.001",
+			"name":"tripo_material_fdc17924-f668-45af-ab35-d54ebcf5ecda.002",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":0
@@ -60,7 +60,7 @@
 	],
 	"meshes":[
 		{
-			"name":"tripo_node_fdc17924-f668-45af-ab35-d54ebcf5ecda_tripo_mater",
+			"name":"tripo_node_fdc17924-f668-45af-ab35-d54ebcf5ecda_tripo_material_",
 			"primitives":[
 				{
 					"attributes":{
@@ -158,7 +158,7 @@
 	"buffers":[
 		{
 			"byteLength":1973140,
-			"uri":"SCCS%20.bin"
+			"uri":"sxd.bin"
 		}
 	]
 }

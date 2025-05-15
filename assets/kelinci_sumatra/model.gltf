@@ -20,9 +20,9 @@
 			"mesh":0,
 			"name":"tripo_node_4949692e-aefd-4e0e-abd9-3b132a719624",
 			"scale":[
-				2.0630829334259033,
-				2.0630829334259033,
-				2.0630829334259033
+				3.6572537422180176,
+				3.6572537422180176,
+				3.6572537422180176
 			],
 			"translation":[
 				0,
@@ -38,7 +38,7 @@
 					"specularFactor":0
 				}
 			},
-			"name":"tripo_material_4949692e-aefd-4e0e-abd9-3b132a719624.001",
+			"name":"tripo_material_4949692e-aefd-4e0e-abd9-3b132a719624",
 			"normalTexture":{
 				"index":0
 			},
@@ -54,7 +54,7 @@
 	],
 	"meshes":[
 		{
-			"name":"Mesh_0.004",
+			"name":"Mesh_0.001",
 			"primitives":[
 				{
 					"attributes":{
@@ -170,7 +170,7 @@
 	"buffers":[
 		{
 			"byteLength":11104820,
-			"uri":"KELINCI.bin"
+			"uri":"sxd.bin"
 		}
 	]
 }
