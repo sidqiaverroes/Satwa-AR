@@ -15,22 +15,22 @@
 	"nodes":[
 		{
 			"mesh":0,
-			"name":"tripo_node_b4de15db-d3ca-43bb-8299-a5b4935e1741",
+			"name":"tripo_node_778685a3-c964-433b-9f3b-2429e884bbd2",
 			"scale":[
-				6.4806132316589355,
-				6.4806132316589355,
-				6.4806132316589355
+				4.5424580574035645,
+				4.5424580574035645,
+				4.5424580574035645
 			],
 			"translation":[
 				0,
-				0.5321446657180786,
-				0.09387358278036118
+				1.1298120021820068,
+				0
 			]
 		}
 	],
 	"materials":[
 		{
-			"name":"tripo_material_b4de15db-d3ca-43bb-8299-a5b4935e1741",
+			"name":"tripo_material_778685a3-c964-433b-9f3b-2429e884bbd2",
 			"normalTexture":{
 				"index":0
 			},
@@ -46,7 +46,7 @@
 	],
 	"meshes":[
 		{
-			"name":"Mesh_0.004",
+			"name":"Mesh_0",
 			"primitives":[
 				{
 					"attributes":{
@@ -95,61 +95,61 @@
 		{
 			"bufferView":0,
 			"componentType":5126,
-			"count":56391,
+			"count":182351,
 			"max":[
 				0.5,
-				0.15512628853321075,
-				0.06575895845890045
+				0.16327185928821564,
+				0.46779903769493103
 			],
 			"min":[
 				-0.5,
-				-0.15513435006141663,
-				-0.06577982753515244
+				-0.16328616440296173,
+				-0.4678049385547638
 			],
 			"type":"VEC3"
 		},
 		{
 			"bufferView":1,
 			"componentType":5126,
-			"count":56391,
+			"count":182351,
 			"type":"VEC3"
 		},
 		{
 			"bufferView":2,
 			"componentType":5126,
-			"count":56391,
+			"count":182351,
 			"type":"VEC2"
 		},
 		{
 			"bufferView":3,
-			"componentType":5123,
-			"count":311592,
+			"componentType":5125,
+			"count":1034916,
 			"type":"SCALAR"
 		}
 	],
 	"bufferViews":[
 		{
 			"buffer":0,
-			"byteLength":676692,
+			"byteLength":2188212,
 			"byteOffset":0,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":676692,
-			"byteOffset":676692,
+			"byteLength":2188212,
+			"byteOffset":2188212,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":451128,
-			"byteOffset":1353384,
+			"byteLength":1458808,
+			"byteOffset":4376424,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":623184,
-			"byteOffset":1804512,
+			"byteLength":4139664,
+			"byteOffset":5835232,
 			"target":34963
 		}
 	],
@@ -161,8 +161,8 @@
 	],
 	"buffers":[
 		{
-			"byteLength":2427696,
-			"uri":"sxd.bin"
+			"byteLength":9974896,
+			"uri":"fedf.bin"
 		}
 	]
 }
